@@ -31,7 +31,7 @@ jobs:
           command: |
             python3 -m venv ~/.devops
             source ~/.devops/bin/activate
-            pip install -r requirements.txt
+            make install
       - save_cache:
           paths:
             - ./devops
