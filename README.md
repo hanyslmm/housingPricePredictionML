@@ -3,7 +3,7 @@ In this project, you will apply some skills to operationalize a Machine Learning
 
 ## Task
   1- Test project code using linting
-  Complete a Dockerfile to containerize this application
+  2- Complete a Dockerfile to containerize this application
   Deploy containerized application using Docker and make a prediction
   Improve the log statements in the source code for this application
   Configure Kubernetes and create a Kubernetes cluster
