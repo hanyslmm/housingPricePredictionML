@@ -12,3 +12,8 @@ In this project, you will apply some skills to operationalize a Machine Learning
   1. Configure Kubernetes and create a Kubernetes cluster
   1. Deploy a container using Kubernetes and make a prediction
   1. Upload a complete Github repo with CircleCI to indicate that code has been tested successfully
+
+
+## List of Docker commands
+
+https://docs.docker.com/engine/reference/commandline/docker/
