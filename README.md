@@ -17,3 +17,7 @@ In this project, you will apply some skills to operationalize a Machine Learning
 ## List of Docker commands
 
 https://docs.docker.com/engine/reference/commandline/docker/
+
+## Safely remove K8s Pods
+
+https://www.bluematador.com/blog/safely-removing-pods-from-a-kubernetes-node
