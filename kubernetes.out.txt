@@ -1,0 +1,15 @@
+hanyslmm@hanBook housingPricePredictionML % ./run_kubernetes.sh
+Flag --generator has been deprecated, has no effect and will be removed in the future.
+Error from server (AlreadyExists): pods "flask-hon" already exists
+NAME                          READY   STATUS    RESTARTS   AGE
+flask-hon                     1/1     Running   0          7m54s
+
+
+
+hanyslmm@hanBook housingPricePredictionML % ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
